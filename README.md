@@ -2,7 +2,8 @@
 
 Clone This Project (Make Sure You Have Git Installed)
 ```
-https://github.com/brknncmoglu/djangoapp.git```
+https://github.com/brknncmoglu/djangoapp.git
+```
 Install Dependencies 
 
 ```
